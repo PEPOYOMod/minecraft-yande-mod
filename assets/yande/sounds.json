@@ -1,0 +1,59 @@
+{
+  "yande.death": {
+    "sounds": [
+      {
+        "name": "yande:yande_death_song",
+        "stream": false
+      }
+    ]
+  },
+  "yande.song": {
+    "sounds": [
+      {
+        "name": "yande:song_of_yande",
+        "stream": false
+      }
+    ]
+  },
+  "harley.first": {
+    "sounds": [
+      {
+        "name": "yande:ppc4-thedoctordialogue1",
+        "stream": false
+      }
+    ]
+  },
+  "harley.second": {
+    "subtitle": "subtitles.harley.second",
+    "sounds": [
+      {
+        "name": "yande:ppc4-thedoctordialogue2",
+        "stream": false
+      }
+    ]
+  },
+  "harley.death": {
+    "sounds": [
+      {
+        "name": "yande:sw_dia_doctor_s13_l13_line06",
+        "stream": false
+      }
+    ]
+  },
+  "harley.death2": {
+    "sounds": [
+      {
+        "name": "yande:sw_dia_doctor_s13_l13_line07",
+        "stream": false
+      }
+    ]
+  },
+  "harley.bgm": {
+    "sounds": [
+      {
+        "name": "yande:obj_w5rdlsojwrldjj7cmsoj_59991597451_a653_5207_2b75_46ac7d6b3cec8cf9c2190457ec776d68",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "item.yande.yandecloth_chestplate": "Yandecloth胸甲",
+  "item.yande.yandecloth_boots": "Yandecloth靴",
+  "entity.yande.taiji": "Taiji",
+  "entity.yande.yande": "Yande",
+  "item.yande.yande_spawn_egg": "Yande 生成蛋",
+  "item.yande.taijispawner": "Taiji",
+  "entity.yande.yandelosecar": "Yande",
+  "entity.yande.yandegodie": "自爆Yande",
+  "item.yande.yandeksfls": "Yandeksfls",
+  "item.yande.yandecloth_helmet": "Yandecloth頭盔",
+  "item.yande.songrecord.desc": "失態生態実験体 - ぺぽよ",
+  "item.yande.yandegodie_spawn_egg": "自爆Yande 生成蛋",
+  "item.yande.taiji_spawn_egg": "Taiji 生成蛋",
+  "subtitles.yande.death": "",
+  "item.yande.songrecord": "唱片",
+  "subtitles.yande.song": "",
+  "item.yande.yandecloth_leggings": "Yandecloth護腳",
+  "item_group.yande.yandegreat": "Yande",
+  "item.yande.yandelosecar_spawn_egg": "Yande 生成蛋"
+}
